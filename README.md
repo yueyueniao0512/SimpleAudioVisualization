@@ -5,4 +5,4 @@
   
 <h2> UpdateV1.1</h2>
   <p1>Added new main menu items: Language, Location, Tone.</p1>
-  <p2> <img width="335" height="1186" alt="屏幕截图(493)" src="https://github.com/user-attachments/assets/a964073e-d530-43e8-9bb6-ad0fd063e01d" /></p2>
+  <p2> <img width="33" height="118" alt="屏幕截图(493)" src="https://github.com/user-attachments/assets/a964073e-d530-43e8-9bb6-ad0fd063e01d" /></p2>
